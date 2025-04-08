@@ -48,9 +48,12 @@
 
     ```  
 16. Use `curl` to fetch **Google’s homepage** and save it as `google.html`.  
+![image](https://github.com/user-attachments/assets/3111907b-e7ea-44ae-ac76-63ed21f33c16)
 
 17. **Create a new VM** (e.g., VirtualBox/Cloud instance), add a user to the `sudoers` group, and run `apt update && apt upgrade`.  
-18. **Generate an SSH key pair** using `ssh-keygen`.  
+18. **Generate an SSH key pair** using `ssh-keygen`. 
+![image](https://github.com/user-attachments/assets/34c8b132-0447-465f-b1d0-71c519ac7055)
+ 
 19. **Copy your public key** to the remote server:  
 20. **SSH into the server** and verify with `hostname`.  
 21. **Transfer the archived file** (e.g., `archive.tar.gz`) to the remote server using ssh copy way (don’t copy/paste >>> you have to search)
