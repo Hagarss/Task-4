@@ -3,7 +3,10 @@
 ![image](https://github.com/user-attachments/assets/723ca425-6033-4b86-bb82-fd4fd29114e7)
 
 2. Find the **PID (Process ID)** of the `sshd` service.  
+![image](https://github.com/user-attachments/assets/2469e818-6372-4015-9f15-eb87dec8ef92)
+
 3. Run a `sleep 500` command in the background, then **kill it** after 5 seconds.  
+![image](https://github.com/user-attachments/assets/b222f16d-92a0-4a0a-8e5d-6ef9a80b8a0e)
 
 4. Install `apache2` service, edit the default HTML file (`/var/www/html/index.html`), and verify changes in a web browser.  
 5. **Check if `sshd` (SSH service) is running**. If not, start and enable it.  
