@@ -1,5 +1,7 @@
 # Task-4
 1. List **all running processes** and save the output to `~/processes.txt`.  
+![image](https://github.com/user-attachments/assets/723ca425-6033-4b86-bb82-fd4fd29114e7)
+
 2. Find the **PID (Process ID)** of the `sshd` service.  
 3. Run a `sleep 500` command in the background, then **kill it** after 5 seconds.  
 
