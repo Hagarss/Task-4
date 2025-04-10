@@ -54,8 +54,5 @@
 18. **Generate an SSH key pair** using `ssh-keygen`. 
 ![image](https://github.com/user-attachments/assets/34c8b132-0447-465f-b1d0-71c519ac7055)
  
-19. **Copy your public key** to the remote server:  
-20. **SSH into the server** and verify with `hostname`.  
-21. **Transfer the archived file** (e.g., `archive.tar.gz`) to the remote server using ssh copy way (don’t copy/paste >>> you have to search)
 
 
